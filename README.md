@@ -33,3 +33,7 @@ Bienvenido a mi perfil de GitHub. Este espacio funciona como mi carta de present
 * **Largo plazo:** Especializarme en áreas clave de la Ingeniería en Cómputo y colaborar en proyectos de desarrollo o código abierto.
 
 ---
+
+## 📂 Proyectos y Repositorios Destacados
+
+* **[Repositorio de Programación](https://github.com/Mexger/Programacion):** Colección de prácticas, ejercicios de lógica algorítmica y código desarrollado en **Python** durante mi formación académica *(alojado en mi cuenta secundaria [@Mexger](https://github.com/Mexger))*.
