@@ -1,4 +1,4 @@
-# 💻 Eidan Monroy
+# ¡Hola! Soy Eidan Monroy 👋
 
 ![Ingeniería en Cómputo](https://img.shields.io/badge/Carrera-Ingenier%C3%ADa%20en%20C%C3%B3mputo-1f6feb?style=for-the-badge)
 ![Semestre](https://img.shields.io/badge/Semestre-1.%C2%B0%20Semestre-8957e5?style=for-the-badge)
@@ -7,14 +7,29 @@
 
 > Estudiante de **Ingeniería en Cómputo (1.° Semestre)** enfocado en **fundamentos de programación**, lógica algorítmica y documentación de prácticas en Python.
 
+Bienvenido a mi perfil de GitHub. Este espacio funciona como mi carta de presentación y repositorio central para documentar mi evolución académica y mis prácticas de programación.
+
 ---
+
+## 💻 Tecnologías e Intereses
 
 ### 🛠️ Herramientas utilizadas
 
-- **Lenguaje:** Python 3
-- **Editor:** Visual Studio Code
-- **Control de versiones:** Git y GitHub
+* **Lenguaje:** Python 3
+* **Editor:** Visual Studio Code
+* **Control de versiones:** Git y GitHub
 
-<p>
-  <img src="
-  
+### 🚀 Áreas de interés y aprendizaje
+
+* **Fundamentos y Algoritmos:** Lógica de programación, resolución de problemas y estructuras de datos.
+* **Desarrollo de Software:** Desarrollo web y creación de aplicaciones funcionales.
+
+---
+
+## 🎯 Metas Académicas y Profesionales
+
+* **Corto plazo:** Consolidar mis bases en **Python**, dominar el control de versiones con **Git y GitHub** y documentar correctamente mis prácticas de primer semestre.
+* **Mediano plazo:** Incorporar nuevos lenguajes de programación y construir proyectos funcionales para mi portafolio.
+* **Largo plazo:** Especializarme en áreas clave de la Ingeniería en Cómputo y colaborar en proyectos de desarrollo o código abierto.
+
+---
