@@ -34,6 +34,16 @@ Bienvenido a mi perfil de GitHub. Este espacio funciona como mi carta de present
 
 ---
 
+## 📫 Cómo contactarme
+
+Si deseas colaborar en algún proyecto, compartir recursos de programación o ponerte en contacto conmigo:
+
+* **LinkedIn:** [Eidan Haziel Monroy Sánchez](https://www.linkedin.com/in/eidan-haziel-monroy-sanchez)
+* **GitHub principal:** [Eidan-Monroy](https://github.com/Eidan-Monroy)
+* **GitHub secundario (prácticas):** [@Mexger](https://github.com/Mexger)
+
+---
+
 ## 📂 Proyectos y Repositorios Destacados
 
 * **[Repositorio de Programación](https://github.com/Mexger/Programacion):** Colección de prácticas, ejercicios de lógica algorítmica y código desarrollado en **Python** durante mi formación académica *(alojado en mi cuenta secundaria [@Mexger](https://github.com/Mexger))*.
